@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/zapishi/zapishi"><img src="https://raw.githubusercontent.com/zapishi/zapishi/master/assets/images/logo.png" alt="Zapishi"/></a>
+  <a href="https://github.com/zapishi/zapishi"><img src="https://raw.githubusercontent.com/zapishi/zapishi/master/assets/images/logo2.png" alt="Zapishi"/></a>
   <br>
   Zapishi
   <br>
